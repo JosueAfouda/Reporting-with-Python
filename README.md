@@ -2,4 +2,4 @@
 
 Dans ce projet, je montre comment on peut réaliser un *Reporting* avec Python. Il s'agira de rassembler dans un document PDF les graphiques pertinents afin de restituer les résultats d'une analyse des données aux parties prenantes.
 
-Vous pouvez regarder les 3 vidéos du tutoriel au niveau de ma chaîne YouTube.
+Vous pouvez regarder les 3 vidéos du tutoriel au niveau de ma chaîne [YouTube](https://www.youtube.com/playlist?list=PLmJWMf9F8euRVEMLNqJjzrB-IHoDm_7c_)
